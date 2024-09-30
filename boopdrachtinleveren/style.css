@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 250%;
+    margin-bottom: 20px;
+}
+
+figure {
+    text-align: end;
+
+}
+
+article {
+    width: 60vw;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+figure {
+    margin-bottom: 40px;
+
+
+}
+
+h6{
+    font-size: 125%;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 10px
+}
+
+figcaption {
+    font-size: 80%;
+    font-style: italic;
+}
+
+img{
+    width: 30vw;
+    border-radius: 100px;
+    size: 100%;
+}
